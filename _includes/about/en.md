@@ -1,5 +1,7 @@
 Hey, I am Zexue Liu (Z. Liu). Welcome to my blog.
 
+I completed my Doctor of Philosophy (Ph.D.) degree at  [Peking University](https://www.pku.edu.cn/), specializing in the field of radio-frequency (RF) and analog integrated circuit design. 
+
 
 **Academic Links**  
 - <a href="https://scholar.google.com/citations?user=X2CAZMEAAAAJ" target="_blank" title="Google Scholar Profile">

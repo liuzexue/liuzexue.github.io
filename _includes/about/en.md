@@ -1,5 +1,12 @@
 Hey, I am Zexue Liu (Z. Liu). Welcome to my blog.
 
+
+**Academic Links**  
+- Google Scholar: [![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png)][(https://scholar.google.com/citations?user=X2CAZMEAAAAJ&hl=zh-CN&oi=ao)].
+- ORCID: [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)][(https://orcid.org/0000-0002-7333-3119)]
+
+
+
 <!--
 I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
 

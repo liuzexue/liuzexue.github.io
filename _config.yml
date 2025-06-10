@@ -1,6 +1,6 @@
 # Site settings
 title: Liu Zexue's Blog
-SEOTitle: My blog | Powered by Hux Blog
+SEOTitle: Liu Zexue's Blog
 header-img: img/home-bg.jpg
 email: liuzexue@pku.edu.cn
 description: "Just do it"
@@ -69,12 +69,12 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
- ga_track_id: "G-V7MWG81EDP" # Format: UA-xxxxxx-xx
- ga_domain: https://liuzexue.github.io
+# ga_track_id: "UA-11334802163-Y" # Format: UA-xxxxxx-xx
+# ga_domain: https://liuzexue.github.io
 
 # Sidebar settings
 sidebar: false # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "Proactive. Open. Just do it. @ Xinyi"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

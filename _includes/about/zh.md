@@ -1,6 +1,27 @@
 Hey，我是刘泽学（Zexue Liu），欢迎关注我的blog。
 
 
+
+**学术链接**  
+- <a href="https://scholar.google.com/citations?user=X2CAZMEAAAAJ" target="_blank" title="Google Scholar Profile" 
+   style="display: inline-flex; align-items: center;">
+  <img src="https://scholar.google.com/favicon.ico" 
+       alt="Google Scholar" width="16" height="16" 
+       style="display: inline; margin: 0 0 0 5px; vertical-align: middle;">
+  Google Scholar 
+</a>
+
+- <a href="https://orcid.org/0000-0002-7333-3119" target="_blank" title="ORCID Profile" 
+   style="display: inline-flex; align-items: center;">
+   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" 
+       alt="ORCID" width="16" height="16" 
+       style="display: inline; margin: 0 0 0 5px; vertical-align: middle;">
+  ORCID       
+</a>
+
+
+
+
 <!--
 
 ##### 技术演讲
